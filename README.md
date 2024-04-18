@@ -3,10 +3,10 @@
 This repository contains SQL scripts for managing a product catalog in a database. It includes scripts to insert new product data, update pricing information, and delete obsolete records.
 
 ## Table of Contents
-- [Overview](#overview)
-- [Database Schema](#database-schema)
-- [Features](#features)
-- [Usage](#usage)
+- [Overview](./docs/overview.md)
+- [Database Schema](./docs/database_schema.md)
+- [Features](./docs/features.md)
+- [Usage](./docs/usage.md)
 - [Contributing](#contributing)
 
 ## Overview

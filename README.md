@@ -11,19 +11,19 @@ This repository contains SQL scripts for managing a product catalog in a databas
 
 ## Overview
 
-For a detailed overview of this project, please refer to [overview.md](./overview.md).
+For a detailed overview of this project, please refer to [overview.md](./docs/overview.md).
 
 ## Database Schema
 
-To understand the database schema used in this project, view [database_schema.md](./database_schema.md).
+To understand the database schema used in this project, view [database_schema.md](./docs/database_schema.md).
 
 ## Features
 
-For a list of key features and functionalities, see [features.md](./features.md).
+For a list of key features and functionalities, see [features.md](./docs/features.md).
 
 ## Usage
 
-For instructions on how to use the SQL scripts in this repository, refer to [usage.md](./usage.md).
+For instructions on how to use the SQL scripts in this repository, refer to [usage.md](./docs/usage.md).
 
 ## Technologies Used
 
